@@ -42,14 +42,25 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:S.Bharani Kumar RegisterNumber:24901064
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/df248495-f59d-450d-80a3-9585153d2e31)
+
+
+
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
+
+
 **RESULTS**
+![image](https://github.com/user-attachments/assets/8b5d76b8-b6cc-4864-8346-054c3041f112)
+
+
 
 
 
