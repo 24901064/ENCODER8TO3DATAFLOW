@@ -1,5 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
-
+#  EXP 5 :Implementation-of- Encoder 8 To 3 in Dataflow Modelling using-verilog
+## NAME : BHARANI KUMAR S
+## REGISTRATION NUMBER : 24901064
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -40,27 +41,19 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by:S.Bharani Kumar RegisterNumber:24901064
+Developed by: RegisterNumber:24006587
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/user-attachments/assets/df248495-f59d-450d-80a3-9585153d2e31)
+![ENCODER DE DIAGRAM](https://github.com/user-attachments/assets/4f06be54-58b7-437f-9b97-700d6ffe1bc7)
 
-
-
-
-
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-
-
-
+**CODE**
+![ENCODER DE CODE](https://github.com/user-attachments/assets/45404eb7-41a6-4327-a142-a06a07dff42b)
 
 **RESULTS**
-![image](https://github.com/user-attachments/assets/8b5d76b8-b6cc-4864-8346-054c3041f112)
-
+![ENCODER DE OUTPUT](https://github.com/user-attachments/assets/1484f791-2717-4535-b553-485ddbb04658)
 
 
 
